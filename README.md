@@ -26,3 +26,7 @@ Netlify has made this easy. If you click the deploy button below, it will guide 
 ## What is Saved?
 
 The value is returned as a string of HTML.
+
+## Contributors
+
+Originally contributed by [@Enngage](https://github.com/Enngage)
