@@ -1,3 +1,6 @@
+## :warning: Deprecation notice
+> This repository has been archived and is no longer maintained.
+
 # TinyMCE Editor Custom Element for Kentico Kontent
 
 This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) for [Kentico Kontent](https://kontent.ai) that allows users to edit rich text using the TinyMCE editor.
